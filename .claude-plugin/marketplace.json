@@ -1,0 +1,15 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "day-trading-toolkit",
+  "description": "A day-trading toolkit for Claude",
+  "owner": { "name": "Anton Riahi", "url": "https://github.com/antonriahi" },
+  "plugins": [
+    {
+      "name": "day-trading-toolkit",
+      "description": "Eight Claude skills for day trading: chart scanner, news monitor, entry timer, exit planner, Monte Carlo trade simulator, position sizing, risk checks and paper-trading order execution.",
+      "source": "./",
+      "category": "productivity",
+      "homepage": "https://github.com/antonriahi/day-trading-toolkit"
+    }
+  ]
+}

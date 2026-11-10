@@ -1,0 +1,10 @@
+{
+  "name": "day-trading-toolkit",
+  "description": "Eight Claude skills for day trading: chart scanner, news monitor, entry timer, exit planner, Monte Carlo trade simulator, position sizing, risk checks and paper-trading order execution.",
+  "version": "1.0.0",
+  "homepage": "https://github.com/antonriahi/day-trading-toolkit",
+  "repository": "https://github.com/antonriahi/day-trading-toolkit",
+  "license": "MIT",
+  "keywords": ["claude-code", "claude-skills", "day-trading", "backtesting", "monte-carlo", "risk-management", "paper-trading"],
+  "skills": "./"
+}
